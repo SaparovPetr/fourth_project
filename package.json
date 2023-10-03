@@ -14,7 +14,7 @@
     "build": "gulp build",
     "dev": "gulp watchapp",
     "fixAndBuild": "npm run fixAll && npm run build",
-    "lintfixAndPush": "npm run fixAll && git add . && git commit -m'подготовили' && git push"
+    "lintfixAndPush": "npm run fixAll && git add . && git commit -m'подготовили_к_публикации' && git push"
 
   },
   "author": "",
